@@ -1,3 +1,3 @@
 apt-get install -y python3 pip
-pip install flask
+pip install -r requirements.txt
 python3 app.py
